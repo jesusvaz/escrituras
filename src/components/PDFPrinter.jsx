@@ -4,7 +4,7 @@ const PDFPrinter = ({ file }) => {
   const print = () => {
     const pdfFrame = document.createElement('iframe');
     pdfFrame.style.visibility = 'hidden';
-    pdfFrame.src = file;
+    pdfFrame.src = 'https://jesusvaz.github.io/jvsescrituras/assets/docs/file-sample.pdf'
 
     document.body.appendChild(pdfFrame);
 
