@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/escrituras/static/css/main.d9aae2f0.chunk.css",
-    "main.js": "/escrituras/static/js/main.e0e8e5b4.chunk.js",
-    "main.js.map": "/escrituras/static/js/main.e0e8e5b4.chunk.js.map",
+    "main.js": "/escrituras/static/js/main.418245be.chunk.js",
+    "main.js.map": "/escrituras/static/js/main.418245be.chunk.js.map",
     "runtime-main.js": "/escrituras/static/js/runtime-main.cf0bb35a.js",
     "runtime-main.js.map": "/escrituras/static/js/runtime-main.cf0bb35a.js.map",
     "static/css/2.553dcaa3.chunk.css": "/escrituras/static/css/2.553dcaa3.chunk.css",
@@ -13,13 +13,14 @@
     "index.html": "/escrituras/index.html",
     "static/css/2.553dcaa3.chunk.css.map": "/escrituras/static/css/2.553dcaa3.chunk.css.map",
     "static/css/main.d9aae2f0.chunk.css.map": "/escrituras/static/css/main.d9aae2f0.chunk.css.map",
-    "static/js/2.26d224fe.chunk.js.LICENSE.txt": "/escrituras/static/js/2.26d224fe.chunk.js.LICENSE.txt"
+    "static/js/2.26d224fe.chunk.js.LICENSE.txt": "/escrituras/static/js/2.26d224fe.chunk.js.LICENSE.txt",
+    "static/media/file-sample.dba04876.pdf": "/escrituras/static/media/file-sample.dba04876.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.cf0bb35a.js",
     "static/css/2.553dcaa3.chunk.css",
     "static/js/2.26d224fe.chunk.js",
     "static/css/main.d9aae2f0.chunk.css",
-    "static/js/main.e0e8e5b4.chunk.js"
+    "static/js/main.418245be.chunk.js"
   ]
 }
